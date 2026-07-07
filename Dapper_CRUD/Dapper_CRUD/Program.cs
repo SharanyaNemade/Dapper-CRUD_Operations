@@ -16,6 +16,7 @@ builder.Services.AddScoped<DapperContext>();
 builder.Services.AddScoped<IEmpService,EmpService>();
 
 
+<<<<<<< HEAD
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("ReactPolicy", policy =>
@@ -28,6 +29,8 @@ builder.Services.AddCors(options =>
 });
 
 
+=======
+>>>>>>> 9344e8b30babd453252b8f158121ac363b8c6b9d
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -39,8 +42,11 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
+<<<<<<< HEAD
 app.UseCors("ReactPolicy");
 
+=======
+>>>>>>> 9344e8b30babd453252b8f158121ac363b8c6b9d
 app.UseAuthorization();
 
 app.MapControllers();

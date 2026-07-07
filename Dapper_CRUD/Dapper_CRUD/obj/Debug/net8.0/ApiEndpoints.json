@@ -27,6 +27,41 @@
   },
   {
     "ContainingType": "Dapper_CRUD.Controllers.EmployeeController",
+<<<<<<< HEAD
+=======
+    "Method": "DeleteEmployee",
+    "RelativePath": "api/Employee",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Dapper_CRUD.Controllers.EmployeeController",
+    "Method": "UpdateEmployee",
+    "RelativePath": "api/Employee",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "e",
+        "Type": "Dapper_CRUD.Models.Employee",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Dapper_CRUD.Controllers.EmployeeController",
+>>>>>>> 9344e8b30babd453252b8f158121ac363b8c6b9d
     "Method": "GetEmployeeById",
     "RelativePath": "api/Employee/{id}",
     "HttpMethod": "GET",
@@ -40,6 +75,7 @@
       }
     ],
     "ReturnTypes": []
+<<<<<<< HEAD
   },
   {
     "ContainingType": "Dapper_CRUD.Controllers.EmployeeController",
@@ -77,5 +113,7 @@
       }
     ],
     "ReturnTypes": []
+=======
+>>>>>>> 9344e8b30babd453252b8f158121ac363b8c6b9d
   }
 ]

@@ -46,7 +46,11 @@ namespace Dapper_CRUD.Controllers
             return Ok(employee);
         }
 
+<<<<<<< HEAD
         [HttpDelete("{id}")]
+=======
+        [HttpDelete]
+>>>>>>> 9344e8b30babd453252b8f158121ac363b8c6b9d
         public async Task<IActionResult> DeleteEmployee(int id)
         {
             var result = await service.DeleteEmployee(id);
@@ -60,10 +64,16 @@ namespace Dapper_CRUD.Controllers
         }
 
 
+<<<<<<< HEAD
         [HttpPut("{id}")]
         public async Task<IActionResult> UpdateEmployee(int id, Employee e)
         {
             e.EmployeeId = id;
+=======
+        [HttpPut]
+        public async Task<IActionResult> UpdateEmployee(Employee e)
+        {
+>>>>>>> 9344e8b30babd453252b8f158121ac363b8c6b9d
 
             var result = await service.UpdateEmployee(e);
 

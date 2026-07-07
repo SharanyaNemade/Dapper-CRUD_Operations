@@ -3,26 +3,46 @@
   "WorkspaceRootPath": "D:\\Dapper\\Dapper_CRUD\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{82B34AFA-91E6-48D4-8BAC-920195361F91}|Dapper_CRUD\\Dapper_CRUD.csproj|d:\\dapper\\dapper_crud\\dapper_crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82B34AFA-91E6-48D4-8BAC-920195361F91}|Dapper_CRUD\\Dapper_CRUD.csproj|solutionrelative:dapper_crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+=======
+>>>>>>> 9344e8b30babd453252b8f158121ac363b8c6b9d
       "AbsoluteMoniker": "D:0:0:{82B34AFA-91E6-48D4-8BAC-920195361F91}|Dapper_CRUD\\Dapper_CRUD.csproj|d:\\dapper\\dapper_crud\\dapper_crud\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82B34AFA-91E6-48D4-8BAC-920195361F91}|Dapper_CRUD\\Dapper_CRUD.csproj|solutionrelative:dapper_crud\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{82B34AFA-91E6-48D4-8BAC-920195361F91}|Dapper_CRUD\\Dapper_CRUD.csproj|d:\\dapper\\dapper_crud\\dapper_crud\\interface\\iempservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82B34AFA-91E6-48D4-8BAC-920195361F91}|Dapper_CRUD\\Dapper_CRUD.csproj|solutionrelative:dapper_crud\\interface\\iempservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+=======
+>>>>>>> 9344e8b30babd453252b8f158121ac363b8c6b9d
       "AbsoluteMoniker": "D:0:0:{82B34AFA-91E6-48D4-8BAC-920195361F91}|Dapper_CRUD\\Dapper_CRUD.csproj|d:\\dapper\\dapper_crud\\dapper_crud\\service\\empservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82B34AFA-91E6-48D4-8BAC-920195361F91}|Dapper_CRUD\\Dapper_CRUD.csproj|solutionrelative:dapper_crud\\service\\empservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+<<<<<<< HEAD
+=======
+      "AbsoluteMoniker": "D:0:0:{82B34AFA-91E6-48D4-8BAC-920195361F91}|Dapper_CRUD\\Dapper_CRUD.csproj|d:\\dapper\\dapper_crud\\dapper_crud\\interface\\iempservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B34AFA-91E6-48D4-8BAC-920195361F91}|Dapper_CRUD\\Dapper_CRUD.csproj|solutionrelative:dapper_crud\\interface\\iempservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+>>>>>>> 9344e8b30babd453252b8f158121ac363b8c6b9d
       "AbsoluteMoniker": "D:0:0:{82B34AFA-91E6-48D4-8BAC-920195361F91}|Dapper_CRUD\\Dapper_CRUD.csproj|d:\\dapper\\dapper_crud\\dapper_crud\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82B34AFA-91E6-48D4-8BAC-920195361F91}|Dapper_CRUD\\Dapper_CRUD.csproj|solutionrelative:dapper_crud\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+<<<<<<< HEAD
+=======
+      "AbsoluteMoniker": "D:0:0:{82B34AFA-91E6-48D4-8BAC-920195361F91}|Dapper_CRUD\\Dapper_CRUD.csproj|d:\\dapper\\dapper_crud\\dapper_crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B34AFA-91E6-48D4-8BAC-920195361F91}|Dapper_CRUD\\Dapper_CRUD.csproj|solutionrelative:dapper_crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+>>>>>>> 9344e8b30babd453252b8f158121ac363b8c6b9d
       "AbsoluteMoniker": "D:0:0:{82B34AFA-91E6-48D4-8BAC-920195361F91}|Dapper_CRUD\\Dapper_CRUD.csproj|d:\\dapper\\dapper_crud\\dapper_crud\\models\\managers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82B34AFA-91E6-48D4-8BAC-920195361F91}|Dapper_CRUD\\Dapper_CRUD.csproj|solutionrelative:dapper_crud\\models\\managers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -50,19 +70,28 @@
           "Children": [
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 3,
+=======
+              "DocumentIndex": 1,
+>>>>>>> 9344e8b30babd453252b8f158121ac363b8c6b9d
               "Title": "EmpService.cs",
               "DocumentMoniker": "D:\\Dapper\\Dapper_CRUD\\Dapper_CRUD\\Service\\EmpService.cs",
               "RelativeDocumentMoniker": "Dapper_CRUD\\Service\\EmpService.cs",
               "ToolTip": "D:\\Dapper\\Dapper_CRUD\\Dapper_CRUD\\Service\\EmpService.cs",
               "RelativeToolTip": "Dapper_CRUD\\Service\\EmpService.cs",
+<<<<<<< HEAD
               "ViewState": "AgIAACYAAAAAAAAAAAA3wDkAAAAIAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwDkAAAAVAAAAAAAAAA==",
+>>>>>>> 9344e8b30babd453252b8f158121ac363b8c6b9d
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-05T13:49:35.087Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 4,
               "Title": "Employee.cs",
               "DocumentMoniker": "D:\\Dapper\\Dapper_CRUD\\Dapper_CRUD\\Models\\Employee.cs",
@@ -101,19 +130,67 @@
             },
             {
               "$type": "Document",
+=======
+>>>>>>> 9344e8b30babd453252b8f158121ac363b8c6b9d
               "DocumentIndex": 2,
               "Title": "IEmpService.cs",
               "DocumentMoniker": "D:\\Dapper\\Dapper_CRUD\\Dapper_CRUD\\Interface\\IEmpService.cs",
               "RelativeDocumentMoniker": "Dapper_CRUD\\Interface\\IEmpService.cs",
               "ToolTip": "D:\\Dapper\\Dapper_CRUD\\Dapper_CRUD\\Interface\\IEmpService.cs",
               "RelativeToolTip": "Dapper_CRUD\\Interface\\IEmpService.cs",
+<<<<<<< HEAD
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAIAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAHAAAAAAAAAA==",
+>>>>>>> 9344e8b30babd453252b8f158121ac363b8c6b9d
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-05T13:49:11.297Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
+=======
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Dapper\\Dapper_CRUD\\Dapper_CRUD\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Dapper_CRUD\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Dapper\\Dapper_CRUD\\Dapper_CRUD\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Dapper_CRUD\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwEkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T13:50:12.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Dapper\\Dapper_CRUD\\Dapper_CRUD\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Dapper_CRUD\\Models\\Employee.cs",
+              "ToolTip": "D:\\Dapper\\Dapper_CRUD\\Dapper_CRUD\\Models\\Employee.cs",
+              "RelativeToolTip": "Dapper_CRUD\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T13:26:39.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dapper\\Dapper_CRUD\\Dapper_CRUD\\Program.cs",
+              "RelativeDocumentMoniker": "Dapper_CRUD\\Program.cs",
+              "ToolTip": "D:\\Dapper\\Dapper_CRUD\\Dapper_CRUD\\Program.cs",
+              "RelativeToolTip": "Dapper_CRUD\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T14:36:08.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+>>>>>>> 9344e8b30babd453252b8f158121ac363b8c6b9d
               "DocumentIndex": 5,
               "Title": "Managers.cs",
               "DocumentMoniker": "D:\\Dapper\\Dapper_CRUD\\Dapper_CRUD\\Models\\Managers.cs",
@@ -122,7 +199,12 @@
               "RelativeToolTip": "Dapper_CRUD\\Models\\Managers.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+<<<<<<< HEAD
               "WhenOpened": "2026-07-05T13:30:48.945Z"
+=======
+              "WhenOpened": "2026-07-05T13:30:48.945Z",
+              "EditorCaption": ""
+>>>>>>> 9344e8b30babd453252b8f158121ac363b8c6b9d
             },
             {
               "$type": "Document",
@@ -158,7 +240,12 @@
               "RelativeToolTip": "Dapper_CRUD\\Dapper_CRUD.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+<<<<<<< HEAD
               "WhenOpened": "2026-07-05T13:25:50.344Z"
+=======
+              "WhenOpened": "2026-07-05T13:25:50.344Z",
+              "EditorCaption": ""
+>>>>>>> 9344e8b30babd453252b8f158121ac363b8c6b9d
             }
           ]
         }
